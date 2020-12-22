@@ -33,6 +33,13 @@ h1{
       color: #ffffff;
       text-transform: uppercase;
       padding-right: 3rem;
-   
-  
+}
+
+
+ @media (max-width : 1000px){
+    h1{
+        font-family: 'Kristi', cursive;
+        font-size: 60px;
+        color: #1a1c20; 
+    }
   }
