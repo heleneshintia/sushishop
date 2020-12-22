@@ -1,0 +1,38 @@
+body{
+    background-color: #f4f4f4;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+}
+.icone{
+    width: 30%;
+}
+.logoicon{
+    width: 10%;
+}
+
+
+.handwriting{
+    font-family: 'Kristi', cursive;
+    font-size: 55px;
+
+}
+
+h1{
+    font-family: 'Kristi', cursive;
+    font-size: 85px;
+    color: #f0a500; 
+}
+
+#menutitle{
+
+    background-color: #cf7500;
+  }
+
+.navbar-light .navbar-nav .nav-link{
+      font-size: 1.2rem;
+      color: #ffffff;
+      text-transform: uppercase;
+      padding-right: 3rem;
+   
+  
+  }
